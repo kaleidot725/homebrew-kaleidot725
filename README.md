@@ -9,7 +9,7 @@ Homebrew tap for kaleidot725's applications.
 GUI tool for Android app testing using ADB.
 
 ```bash
-brew tap kaleidot725/tap
+brew tap kaleidot725/app
 brew install --cask adbpad
 ```
 
